@@ -1,0 +1,32 @@
+{
+  "sites": [
+    {
+      "url": "http://fsystem88.ru/ip/",
+      "class": "PlainTextIpProvider"
+    },
+    {
+      "url": "http://api.ipify.org/?format=text",
+      "class": "PlainTextIpProvider"
+    },
+    {
+      "url": "https://api.ip.sb/ip",
+      "class": "PlainTextIpProvider"
+    },
+    {
+      "url": "https://api.kwelo.com/v1/network/ip-address/my?format=text",
+      "class": "PlainTextIpProvider"
+    },
+    {
+      "url": "https://ip.seeip.org/",
+      "class": "PlainTextIpProvider"
+    },
+    {
+      "url": "https://icanhazip.com/",
+      "class": "PlainTextIpProvider"
+    },
+    {
+      "url": "http://ifconfig.me/ip",
+      "class": "PlainTextIpProvider"
+    }
+  ]
+}
