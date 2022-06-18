@@ -1,0 +1,24 @@
+{
+  "sites": [
+    {
+      "url": "https://raw.githubusercontent.com/shiftytr/proxy-list/master/https.txt",
+      "class": "PlainTextProxyProvider"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt",
+      "class": "PlainTextProxyProvider"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/proxies-https.txt",
+      "class": "PlainTextProxyProvider"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt",
+      "class": "PlainTextProxyProvider"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/RX4096/proxy-list/main/online/https.txt",
+      "class": "PlainTextProxyProvider"
+    }
+  ]
+}
