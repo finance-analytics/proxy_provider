@@ -1,40 +1,38 @@
-{
-  "sites": [
+[
     {
-      "url": "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
-      "class": "PlainTextProxyProvider"
+        "url": "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
+        "class": "PlainTextProxySource"
     },
     {
-      "url": "https://raw.githubusercontent.com/Volodichev/proxy-list/main/http.txt",
-      "class": "PlainTextProxyProvider"
+        "url": "https://raw.githubusercontent.com/Volodichev/proxy-list/main/http.txt",
+        "class": "PlainTextProxySource"
     },
     {
-      "url": "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
-      "class": "PlainTextProxyProvider"
+        "url": "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
+        "class": "PlainTextProxySource"
     },
     {
-      "url": "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
-      "class": "PlainTextProxyProvider"
+        "url": "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
+        "class": "PlainTextProxySource"
     },
     {
-      "url": "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/http.txt",
-      "class": "PlainTextProxyProvider"
+        "url": "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/http.txt",
+        "class": "PlainTextProxySource"
     },
     {
-      "url": "https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/proxies-http.txt",
-      "class": "PlainTextProxyProvider"
+        "url": "https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/proxies-http.txt",
+        "class": "PlainTextProxySource"
     },
     {
-      "url": "https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt",
-      "class": "PlainTextProxyProvider"
+        "url": "https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt",
+        "class": "PlainTextProxySource"
     },
     {
-      "url": "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt",
-      "class": "PlainTextProxyProvider"
+        "url": "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt",
+        "class": "PlainTextProxySource"
     },
     {
-      "url": "https://raw.githubusercontent.com/RX4096/proxy-list/main/online/http.txt",
-      "class": "PlainTextProxyProvider"
+        "url": "https://raw.githubusercontent.com/RX4096/proxy-list/main/online/http.txt",
+        "class": "PlainTextProxySource"
     }
-  ]
-}
+]
